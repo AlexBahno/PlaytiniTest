@@ -1,2 +1,2 @@
-Technical task for Playtini
-by Oleksandr Bahno
+## Technical task for Playtini<br>
+### Done by Oleksandr Bahno
